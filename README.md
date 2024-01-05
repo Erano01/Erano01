@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
-<h3 align="center">A passionate backend from Turkey</h3>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
