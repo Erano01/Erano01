@@ -10,8 +10,6 @@ Additionally, I am well-versed in Java use cases for game modding projects. I ha
 
 My strong GUI management skills in Java Awt, Swing, and FX projects enable me to design user interfaces effectively. I have also delved into certain sections of the Design Pattern GOF to better understand GUIs.
 
-Apart from my technical skills, I am an Arch Linux user and can write bash script codes. I am currently advancing my knowledge in DevOps, with a focus on GKE and GCP. By consistently seeking innovative solutions, I strive to continually improve myself and successfully complete projects.
-
 Beyond my technical skills, I am known for being a collaborative team player. I thrive in a team-oriented environment and contribute effectively to group projects. In addition to being an Arch Linux user and proficient in writing bash script codes, I am actively advancing my knowledge in DevOps, with a specific focus on GKE and GCP. By consistently seeking innovative solutions, I strive to continually improve myself and successfully complete projects.
 </p>
 <h3 align="left">Connect with me:</h3>
