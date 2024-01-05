@@ -1,7 +1,19 @@
 
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
+<p>
+  Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experience in the Java ecosystem. I possess a strong proficiency in Maven and have expertise in Java SE topics. Thanks to my deep understanding of the JVM architecture, I can generate effective and optimized solutions for Java projects.
 
+In my backend projects, I have a robust knowledge of writing SOAP and REST APIs. I actively work with technologies such as JPA, Hibernate (ORM), Docker, JUnit, Spring Framework, Spring Boot, JDBC, SQL, and RDBMS. With the experience gained in these areas, I can successfully manage complex projects.
+
+Additionally, I am well-versed in Java use cases for game modding projects. I have developed open source plugins that operate on servers for the Minecraft community. I am comfortable using the obfuscated version of the Spigot API in my projects and can create plugins containing configurations suitable for BungeeCord servers.
+
+My strong GUI management skills in Java Awt, Swing, and FX projects enable me to design user interfaces effectively. I have also delved into certain sections of the Design Pattern GOF to better understand GUIs.
+
+Apart from my technical skills, I am an Arch Linux user and can write bash script codes. I am currently advancing my knowledge in DevOps, with a focus on GKE and GCP. By consistently seeking innovative solutions, I strive to continually improve myself and successfully complete projects.
+
+Beyond my technical skills, I am known for being a collaborative team player. I thrive in a team-oriented environment and contribute effectively to group projects. In addition to being an Arch Linux user and proficient in writing bash script codes, I am actively advancing my knowledge in DevOps, with a specific focus on GKE and GCP. By consistently seeking innovative solutions, I strive to continually improve myself and successfully complete projects.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-ali-sert-55104120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed ali sert" height="30" width="40" /></a>
