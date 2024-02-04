@@ -3,13 +3,9 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 <p>
   Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experience in the Java ecosystem. I possess a strong proficiency in Maven and have expertise in Java SE topics.
-
 In my backend projects, I have a robust knowledge of writing SOAP and REST APIs. I actively work with technologies such as JPA, Hibernate (ORM), Docker, JUnit, Spring Framework, Spring Boot, JDBC, SQL, and RDBMS. With the experience gained in these areas, I can successfully manage complex projects.
-
 Additionally, I am well-versed in Java use cases for game modding projects. I have developed open source plugins that operate on servers for the Minecraft community. I am comfortable using the obfuscated version of the Spigot API in my projects and can create plugins containing configurations suitable for BungeeCord servers.
-
 My strong GUI management skills in Java Awt, Swing, and FX projects enable me to design user interfaces effectively. I have also delved into certain sections of the Design Pattern GOF to better understand GUIs.
-
 Beyond my technical skills, I am known for being a collaborative team player. I thrive in a team-oriented environment and contribute effectively to group projects.
 </p>
 <h3 align="left">Connect with me:</h3>
