@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<h3 align="center">A passionate Java Developer from Turkey</h3>
 <p>
   Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experience in the Java ecosystem. I possess a strong proficiency in Maven and have expertise in Java SE topics.
 In my backend projects, I have a robust knowledge of writing SOAP and REST APIs. I actively work with technologies such as JPA, Hibernate (ORM), Docker, JUnit, Spring Framework, Spring Boot, JDBC, SQL, and RDBMS. With the experience gained in these areas, I can successfully manage complex projects.
