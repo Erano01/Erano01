@@ -2,11 +2,7 @@
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
 <h3 align="center">A passionate Java Developer from Turkey</h3>
 <p>
-  Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experience in the Java ecosystem. I possess a strong proficiency in Maven and have expertise in Java SE topics.
-In my backend projects, I have a robust knowledge of writing SOAP and REST APIs. I actively work with technologies such as JPA, Hibernate (ORM), Docker, JUnit, Spring Framework, Spring Boot, JDBC, SQL, and RDBMS. With the experience gained in these areas, I can successfully manage complex projects.
-Additionally, I am well-versed in Java use cases for game modding projects. I have developed open source plugins that operate on servers for the Minecraft community. I am comfortable using the obfuscated version of the Spigot API in my projects and can create plugins containing configurations suitable for BungeeCord servers.
-My strong GUI management skills in Java Awt, Swing, and FX projects enable me to design user interfaces effectively. I have also delved into certain sections of the Design Pattern GOF to better understand GUIs.
-Beyond my technical skills, I am known for being a collaborative team player. I thrive in a team-oriented environment and contribute effectively to group projects.
+  For over 5 years, I've been developing my Java skills, including JDBC, JPA, and Hibernate, and I'm comfortable working with a variety of database management systems. I constantly refresh myself on the essential features of Java and seek to adapt to new technologies as they emerge. In Java, I am adept with the Spring framework and can create FX independent projects. I also have expertise designing plugins for the Minecraft community. I've also created basic Android applications that make post requests in Java. While my primary skill set is backend application development in Java, I am currently increasing my knowledge to incorporate JavaScript and Vue. I've also worked with Redis in a NoSQL environment, utilizing its advantages.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
