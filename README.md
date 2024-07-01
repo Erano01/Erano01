@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Java Developer from Turkey</h3>
 <p>
 Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experience in the Java ecosystem.
-For more information:  <a href="https://www.linkedin.com/in/muhammed-ali-sert-55104120b/">Linkedin URL</a>
+</p>
+<p>
+  For more information:  <a href="https://www.linkedin.com/in/muhammed-ali-sert-55104120b/">Linkedin URL</a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
