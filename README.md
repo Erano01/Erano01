@@ -2,8 +2,8 @@
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
 <h3 align="center">A passionate Java Developer from Turkey</h3>
 <p>
- I am a software developer with extensive experience in the Java ecosystem. I possess a strong proficiency in Maven and have expertise in Java SE topics.
-For over 5 years, I've been developing my Java skills, including JDBC, JPA, and Hibernate, and I'm comfortable working with a variety of database management systems. I constantly refresh myself on the essential features of Java and seek to adapt to new technologies as they emerge. In Java, I am adept with the Spring framework and can create FX projects. I also have expertise designing plugins for the Minecraft community. I've also created basic Android applications that make post requests in Java. While my primary skill set is backend application development in Java, I am currently increasing my knowledge to incorporate JavaScript and Vue. I've also worked with Redis in a NoSQL environment, utilizing its advantages.
+Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experience in the Java ecosystem.
+For more information:  <a href="https://www.linkedin.com/in/muhammed-ali-sert-55104120b/">Linkedin URL</a>
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
