@@ -21,9 +21,17 @@ Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experienc
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
+  <a href="https://www.ogre3d.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/OGRECave/ogre/refs/heads/master/Other/ogre_header.svg" alt="spring" width="40" height="40"/>
+</a>
+    <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cmake/cmake-original.svg" alt="spring" width="40" height="40"/>
+</a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/blender/blender-original.svg" alt="spring" width="40" height="40"/>
 </a>
+
+  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
