@@ -16,22 +16,21 @@ Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experienc
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>
 <a href="https://isocpp.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
 </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
   <a href="https://www.ogre3d.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/OGRECave/ogre/refs/heads/master/Other/ogre_header.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/OGRECave/ogre/refs/heads/master/Other/ogre_header.svg" alt="ogre" width="40" height="40"/>
 </a>
     <a href="https://cmake.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cmake/cmake-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
 </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/blender/blender-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
 </a>
 
-  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
@@ -53,6 +52,10 @@ Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experienc
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> 
+<a href="https://www.liquibase.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" alt="liquibase" width="40" height="40"/> 
+</a> 
+
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
 </a> 
