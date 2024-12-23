@@ -22,7 +22,7 @@ Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experienc
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
 <a href="https://vulkan.lunarg.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Vulkan-Logo.svg" alt="vulkan" width="40" height="40"/> 
+  <img src="https://www.svgrepo.com/show/354529/vulkan.svg" alt="vulkan" width="40" height="40"/> 
 </a>
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="40"/>
