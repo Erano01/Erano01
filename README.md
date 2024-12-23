@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
-<h3 align="center">A passionate Java Developer from Turkey</h3>
+<h3 align="center">A Java/C++ | Backend/Game Developer from Turkey</h3>
 <p>
 Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experience in the Java ecosystem.
 </p>
