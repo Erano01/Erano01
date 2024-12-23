@@ -27,9 +27,10 @@ Hello, I'm Muhammed Ali Sert. I am a software developer with extensive experienc
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="40"/>
 </a>
+  <!--
   <a href="https://www.ogre3d.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/OGRECave/ogre/refs/heads/master/Other/ogre_header.svg" alt="ogre" width="40" height="40"/>
-</a>
+</a>-->
     <a href="https://cmake.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
 </a>
