@@ -38,10 +38,6 @@ Currently, I am eager to leverage my skills in challenging projects, contribute 
     <a href="https://cmake.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
 </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/>
-</a>
-
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
