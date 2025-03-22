@@ -28,9 +28,6 @@ Currently, I am eager to leverage my skills in challenging projects, contribute 
 <a href="https://vulkan.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/354529/vulkan.svg" alt="vulkan" width="40" height="40"/> 
 </a>
-  <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="40" height="40"/>
-</a>
   <!--
   <a href="https://www.ogre3d.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/OGRECave/ogre/refs/heads/master/Other/ogre_header.svg" alt="ogre" width="40" height="40"/>
