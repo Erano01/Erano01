@@ -2,11 +2,7 @@
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
 <h3>A Java/C++ | Backend/Game Developer from Turkey</h3>
 <p>
-Hello, I'm Muhammed Ali Sert. I am a passionate and detail-oriented Java Developer with expertise in Java SE, JEE 10 technologies, and a deep understanding of Design Patterns and SOLID principles. With hands-on experience in frameworks like Spring, Hibernate ORM, and JPA, I have built robust backend solutions for various industries. My proficiency extends to database management, test automation, and agile methodologies, complemented by a knack for solving complex problems using data structures and algorithms.
-
-I have successfully contributed to projects ranging from e-commerce platforms to Android applications and have a solid foundation in game server and client-side modding, showcasing my versatility in development. My past roles in software testing, technical field service, and backend development have honed my ability to adapt to diverse environments and consistently deliver high-quality results.
-
-Currently, I am eager to leverage my skills in challenging projects, contribute to innovative solutions, and grow in the dynamic world of software development.
+I began Java programming in 2016-17, during my second year of high school, and have since honed my skills in Java SE, JEE, Design Patterns, and SOLID principles. I’m a passionate and detail-oriented Java Developer with hands-on experience in Spring Framework, Hibernate ORM, and JPA.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
