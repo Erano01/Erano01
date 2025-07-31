@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
 <h3>A Java/C++ | Backend/Game Developer from Turkey</h3>
 <p>
@@ -71,4 +70,16 @@ I began Java programming in 2016-17, during my second year of high school, and h
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
 </a> 
+</p>
+
+---
+
+<h3 align="left">GitHub Stats</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Erano01&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<h3 align="left">Top Languages</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&layout=compact&theme=radical" alt="Top Langs" />
 </p>
