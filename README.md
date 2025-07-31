@@ -3,6 +3,7 @@
 <p>
 I began Java programming in 2016-17, during my second year of high school, and have since honed my skills in Java SE, JEE, Design Patterns, and SOLID principles. I’m a passionate and detail-oriented Java Developer with hands-on experience in Spring Framework, Hibernate ORM, and JPA.
 </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-ali-sert-55104120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed ali sert" height="30" width="40" /></a>
@@ -14,8 +15,8 @@ I began Java programming in 2016-17, during my second year of high school, and h
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -35,11 +36,11 @@ I began Java programming in 2016-17, during my second year of high school, and h
 <a href="https://vulkan.org/" target="_blank" rel="noreferrer"> 
   <img src="https://www.svgrepo.com/show/354529/vulkan.svg" alt="vulkan" width="40" height="40"/> 
 </a>
-  <!--
-  <a href="https://www.ogre3d.org/" target="_blank" rel="noreferrer">
+<!--
+<a href="https://www.ogre3d.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/OGRECave/ogre/refs/heads/master/Other/ogre_header.svg" alt="ogre" width="40" height="40"/>
 </a>-->
-    <a href="https://cmake.org/" target="_blank" rel="noreferrer">
+<a href="https://cmake.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
@@ -66,7 +67,6 @@ I began Java programming in 2016-17, during my second year of high school, and h
 <a href="https://www.liquibase.com/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" alt="liquibase" width="40" height="40"/> 
 </a> 
-
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> 
 </a> 
@@ -74,12 +74,14 @@ I began Java programming in 2016-17, during my second year of high school, and h
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Erano01&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<h3 align="left">Top Languages</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<h3 align="left">GitHub Stats & Top Languages</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Erano01&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&layout=compact&theme=radical" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
