@@ -85,3 +85,24 @@ I began Java programming in 2016-17, during my second year of high school, and h
     </td>
   </tr>
 </table>
+
+---
+
+<h3 align="left">GitHub Trophies</h3>
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Erano01&theme=onedark" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="left">Visitor Counter</h3>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Erano01" alt="Visitor Badge"/>
+</p>
+
+---
+
+<h3 align="left">GitHub Activity Graph</h3>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erano01&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
