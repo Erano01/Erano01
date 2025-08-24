@@ -102,7 +102,7 @@ I began Java programming in 2016-17, during my second year of high school, and h
 
 ---
 
-<h3 align="left">GitHub Activity Graph</h3>
+<h3 align="left">GitHub Last 30 Day Activity Graph</h3>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erano01&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
