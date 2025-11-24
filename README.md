@@ -68,8 +68,8 @@ I began Java programming in 2016-17, during my second year of high school, and h
   <img src="https://github.com/devicons/devicon/blob/master/icons/liquibase/liquibase-original.svg" alt="liquibase" width="40" height="40"/> 
 </a> 
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-  <!-- <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Erano01&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
+  
 </a> 
 </p>
 
@@ -79,7 +79,8 @@ I began Java programming in 2016-17, during my second year of high school, and h
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Erano01&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=Erano01&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Erano01&theme=dark" alt="GitHub Streak" /></a>
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&layout=compact&theme=radical" alt="Top Langs" />
