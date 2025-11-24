@@ -86,7 +86,10 @@ I began Java programming in 2016-17, during my second year of high school, and h
     </td>
   </tr>
 </table>
----
+
+<img src="https://github-readme-stats.vercel.app/api?username=Erano01&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Erano01's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Erano01's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=Erano01&theme=dark&hide_border=true" alt="Erano01's GitHub Stats" />
 
 <h3 align="left">GitHub Trophies</h3>
 <p>
