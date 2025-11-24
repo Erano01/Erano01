@@ -73,29 +73,19 @@ I began Java programming in 2016-17, during my second year of high school, and h
 </a> 
 </p>
 
----
+<h3 align="left">GitHub Last 30 Day Activity Graph</h3>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erano01&theme=github-compact" alt="GitHub Activity Graph" />
+</p>
 
 <h3 align="left">GitHub Stats & Top Languages</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Erano01&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Erano01's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Erano01's GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=Erano01&theme=dark&hide_border=true" alt="Erano01's GitHub Stats" />
 
-<h3 align="left">GitHub Trophies</h3>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Erano01&theme=onedark" alt="GitHub Trophies" />
-</p>
-
----
 
 <h3 align="left">Visitor Counter</h3>
 <p>
   <img src="https://komarev.com/ghpvc/?username=Erano01" alt="Visitor Badge"/>
 </p>
 
----
 
-<h3 align="left">GitHub Last 30 Day Activity Graph</h3>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erano01&theme=github-compact" alt="GitHub Activity Graph" />
-</p>
