@@ -87,7 +87,7 @@ I began Java programming in 2016-17, during my second year of high school, and h
     </td>
   </tr>
 </table> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Erano01)](https://git.io/streak-stats)
 ---
 
 <h3 align="left">GitHub Trophies</h3>
