@@ -76,7 +76,6 @@ I began Java programming in 2016-17, during my second year of high school, and h
 ---
 
 <h3 align="left">GitHub Stats & Top Languages</h3>
-<!-- 
 <table>
   <tr>
     <td>
@@ -86,8 +85,7 @@ I began Java programming in 2016-17, during my second year of high school, and h
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&layout=compact&theme=radical" alt="Top Langs" />
     </td>
   </tr>
-</table> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Erano01)](https://git.io/streak-stats)
+</table>
 ---
 
 <h3 align="left">GitHub Trophies</h3>
