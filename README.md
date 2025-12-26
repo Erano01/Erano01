@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
-<h3>A Java/C++ | Backend/Game Developer from Turkey</h3>
+<h3>A Java | Backend/Game Developer from Turkey</h3>
 <p>
 I began Java programming in 2016-17, during my second year of high school, and have since honed my skills in Java SE, JEE, Design Patterns, and SOLID principles. I’m a passionate and detail-oriented Java Developer with hands-on experience in Spring Framework, Hibernate ORM, and JPA.
 </p>
