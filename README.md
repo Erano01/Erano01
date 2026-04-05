@@ -1,7 +1,13 @@
 <h1 align="center">Hello 👋, I'm Muhammed Ali Sert</h1>
 <h3>A Java | Backend/Game Developer from Turkey</h3>
 <p>
-I began Java programming in 2016-17, during my second year of high school, and have since honed my skills in Java SE, JEE, Design Patterns, and SOLID principles. I’m a passionate and detail-oriented Java Developer with hands-on experience in Spring Framework, Hibernate ORM, and JPA.
+I started programming in Java back in 2016–2017, during my second year of high school, well before I knew where it would take me. Over the years I deepened my foundation in Java SE, Design Patterns, and SOLID principles, then went on to complete my associate degree in Computer Programming (2021–2024), during which I picked up Spring Framework, Hibernate, and a genuine passion for building things.
+
+Outside of formal coursework, I got into game modding and server-side development, shipping multiple projects including EranoAPI, and selling them as a freelancer. It was hands-on, self-directed, and taught me more than any classroom did.
+After graduating, I went deep on Domain-Driven Design and Hexagonal Architecture, drawn to the way they bring structure and intention to complex systems.
+Since 2025, I've been rounding out my skill set on the frontend side with Vue.js, Sass, and UI/UX design in Figma, and at this point I work comfortably across the full stack. I'm currently building WeLiveCoach, a gaming coaching platform, entirely solo. On the side, I'm advancing my knowledge in C++, with a focus on graphics APIs, game development, and modding.
+
+I enjoy both ends of the spectrum: the closeness of systems programming and the clarity of good abstraction. I find value in each, and I try not to treat either as an absolute.
 </p>
 
 <h3 align="left">Connect with me:</h3>
