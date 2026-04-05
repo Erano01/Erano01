@@ -5,7 +5,7 @@ I started programming in Java back in 2016–2017, during my second year of high
 
 Outside of formal coursework, I got into game modding and server-side development, shipping multiple projects including EranoAPI, and selling them as a freelancer. It was hands-on, self-directed, and taught me more than any classroom did.
 After graduating, I went deep on Domain-Driven Design and Hexagonal Architecture, drawn to the way they bring structure and intention to complex systems.
-Since 2025, I've been rounding out my skill set on the frontend side with Vue.js, Sass, and UI/UX design in Figma, and at this point I work comfortably across the full stack. I'm currently building WeLiveCoach, a gaming coaching platform, entirely solo. On the side, I'm advancing my knowledge in C++, with a focus on graphics APIs, game development, and modding.
+Since 2025, I've been rounding out my skill set on the frontend side with Vue.js, Sass, and UI/UX design in Figma, and at this point I work comfortably across the full stack. I'm currently building WeLiveCoach, an e-sport coaching platform, entirely solo. On the side, I'm advancing my knowledge in C++, with a focus on graphics APIs, game development, and modding.
 
 I enjoy both ends of the spectrum: the closeness of systems programming and the clarity of good abstraction. I find value in each, and I try not to treat either as an absolute.
 </p>
