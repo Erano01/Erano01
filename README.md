@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ali</h1>
+<h1 align="center">Hello 👋,  I'm Ali</h1>
 <h3>Fullstack Developer · Java · Vue.js · C++</h3>
 <p>
 I started programming in Java back in 2016–2017, during my second year of high school, well before I knew where it would take me. Over the years I deepened my foundation in Java SE, Design Patterns, and SOLID principles, then went on to complete my associate degree in Computer Programming (2021–2024), during which I picked up Spring Framework, Hibernate, and a genuine passion for building things.
