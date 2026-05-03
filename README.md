@@ -55,7 +55,10 @@ I enjoy both ends of the spectrum: the closeness of systems programming and the 
 
 <h3 align="left">GitHub Stats & Top Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Erano01's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&layout=compact" alt="Erano01's Most Used Languages">
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erano01&layout=compact&theme=dark&hide_border=true&langs_count=10&hide_progress=false&v=2"
+  alt="Top Languages"
+/>
 <img src="https://streak-stats.demolab.com?user=Erano01&theme=dark&hide_border=true" alt="Erano01's GitHub Stats" />
 
 <h3 align="left">Visitor Counter</h3>
